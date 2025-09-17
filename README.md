@@ -242,7 +242,7 @@ This initiative aims to inspire and incentivize the developer community to creat
 </details>
 
 
-## ✅ Support
+## ✅ Supports
 - Email for private questions: bounty@zama.ai
 - Official discord channel for live discussions: [discord.gg/zama](https://discord.gg/zama).
 - Zama community forum for technical questions: [community.zama.ai](https://community.zama.ai).
